@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class SliderTargetFollower : MonoBehaviour
+public class HealthTargetFollower : MonoBehaviour
 {
     [SerializeField] private Transform _target;
     [SerializeField] private float _offsetY;
